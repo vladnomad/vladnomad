@@ -30,10 +30,10 @@
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vladnomad&title_color=181818&color=c14220&bg_color=faf5ef&line=184899&point=f4ab3a)](https://github.com/vladnomad?tab=repositories)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vladnomad&title_color=181818&color=c14220&bg_color=faf5ef&line=184899&point=f4ab3a)](https://github.com/vladnomad?tab=repositories)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vlad-mosiichuk">
-    <img alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQHtzqu4hf_5bg/profile-displaybackgroundimage-shrink_350_1400/0/1679042249004?e=1684972800&v=beta&t=Vu9AUwDlbsRkSJviinNYip2wJlvRNfAPNIHm4oTPOLo" />
+    <img alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQHtzqu4hf_5bg/profile-displaybackgroundimage-shrink_350_1400/0/1679042249004?e=1692835200&v=beta&t=du9e2-Z828n1-d2Q5ieEknWsIkyyOkfKdXv08uM4CLQ" />
   </a>
 </p>
