@@ -4,7 +4,7 @@
     <img width="32px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Waving hand" />
   </a>
    I'm 
-  <a href="#">
+  <a href="#" style="position: relative; top: 0.5rem;">
     <img align="center" height="50px" src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=30&duration=5100&pause=1100&color=000000&lines=a+Front+end+Developer;a+Basketball+Enthusiast;an+Existentialist+Anarchist" />
   </a>
   &nbsp;
