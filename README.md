@@ -34,6 +34,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vlad-mosiichuk">
-    <img alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQHtzqu4hf_5bg/profile-displaybackgroundimage-shrink_350_1400/0/1679042249004?e=1692835200&v=beta&t=du9e2-Z828n1-d2Q5ieEknWsIkyyOkfKdXv08uM4CLQ" />
+    <img alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQHtzqu4hf_5bg/profile-displaybackgroundimage-shrink_350_1400/0/1679042249004?e=1698883200&v=beta&t=zforIWTTIQhu8jE7oQetGrSHssS_m6tCrX3d8hgh4GA" />
   </a>
 </p>
