@@ -18,7 +18,7 @@
 </h1>
 <p align="center"> 
   <a href="https://github.com/vladnomad?tab=repositories">
-    <img width="34.25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladnomad&show_icons=true&layout=compact&hide_border=true" alt="Most used languages" />  
+    <img width="34.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladnomad&show_icons=true&layout=compact&hide_border=true" alt="Most used languages" />  
   </a>
   <a href="https://github.com/vladnomad?tab=repositories">
     <img width="47.875%" src="https://github-readme-streak-stats.herokuapp.com/?user=vladnomad&hide_border=true&title_color=095ff2&text_color=171717&bg_color=faf5ef" alt="Github Stats" /> 
@@ -26,7 +26,7 @@
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,sass,bootstrap,webpack,git,regex,svg,md,vscode,figma,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,sass,bootstrap,webpack,git,regex,svg,md,vscode,wordpress" />
   </a>
 </p>
 
