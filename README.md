@@ -12,8 +12,8 @@
 <br />
 
 <div align="center"> 
-	<img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladnomad&show_icons=true&layout=compact&hide_border=true&theme=one_dark_pro" alt="Most used languages" />  
-	<img width="53.5%" src="https://streak-stats.demolab.com?user=vladnomad&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats" />
+	<img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladnomad&show_icons=true&layout=compact&hide_border=true&theme=one_dark_pro" alt="Error fetching github-readme-stats" />  
+	<img width="53.5%" src="https://streak-stats.demolab.com?user=vladnomad&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Error fetching github-readme-streak-stats" />
 </div>
 
 <a href="https://www.linkedin.com/in/vlad-mosiichuk" rel="nofollow">
