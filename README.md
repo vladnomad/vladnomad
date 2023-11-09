@@ -2,7 +2,7 @@
 	<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=9999999999&color=61AFEF&center=true&vCenter=true&repeat=false&width=200&height=35&lines=Hi%2C+there!+I+am" />
 </div>
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=5100&pause=1100&color=61AFEF&center=true&vCenter=true&height=65&lines=a+Front+end+Developer;a+Basketball+Enthusiast;an+Existentialist+Anarchist" />
+	<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=5100&pause=1100&color=61AFEF&center=true&vCenter=true&height=65&lines=a+Front+end+Developer;a+Basketball+Enthusiast;an+Absurdist+Individualist" />
 </div>
 
 <div align="center">
