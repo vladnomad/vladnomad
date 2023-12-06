@@ -17,7 +17,7 @@
 </div>
 
 <a href="https://www.linkedin.com/in/vlad-mosiichuk" rel="nofollow">
-	<img alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQEDntISCNUQnQ/profile-displaybackgroundimage-shrink_350_1400/0/1695860603835?e=1701302400&v=beta&t=vk7QOfb5Fr3CmChXfqNyzwvC9-x2V7Cjs47a1E2j_Gs" />
+	<img alt="LinkedIn Banner" width="100%" src="linkedin-banner.jpeg" />
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vladnomad&hide_border=true&title_color=E0BC6C&color=C678DD&bg_color=23272E&line=61AFEF&point=E0BC6C&area=true&area_color=C678DDCC)](https://github.com/vladnomad?tab=repositories)
