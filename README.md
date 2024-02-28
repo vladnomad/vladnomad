@@ -6,7 +6,10 @@
 </div>
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,git,tailwind,sass,bootstrap,webpack,md,vscode,wordpress" />
+	<img src="https://skillicons.dev/icons?i=js,ts,react,redux,vue,pinia,jquery,nodejs,bun,vite,webpack,git,github,npm" />
+</div>
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,styledcomponents,svg,firebase,cloudflare,babel,postman,regex,vscode,wordpress" />
 </div>
 
 <br />
