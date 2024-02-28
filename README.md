@@ -6,10 +6,10 @@
 </div>
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=js,ts,react,redux,vue,pinia,jquery,nodejs,bun,vite,webpack,git,github,npm" />
+	<img src="https://skillicons.dev/icons?i=js,ts,react,redux,vue,pinia,nodejs,bun,vite,webpack,npm,github,git,jquery" />
 </div>
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,styledcomponents,svg,firebase,cloudflare,babel,postman,regex,vscode,wordpress" />
+	<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,styledcomponents,svg,firebase,cloudflare,babel,regex,vscode,wordpress,postman" />
 </div>
 
 <br />
